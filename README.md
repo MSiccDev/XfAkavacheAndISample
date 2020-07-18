@@ -1,2 +1,5 @@
 # XfAkavacheAndISample
-Redirect placeholder after transfering the repo from MSiccDev to MSicc
+
+Some time ago, I separated my blog post samples from my organizational repos.
+
+Please find the repo now at https://github.com/MSicc/XfAkavacheAndISample
